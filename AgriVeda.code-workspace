@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../AgriVeda"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../crop recommendation"
+		}
+	],
+	"settings": {}
+}
